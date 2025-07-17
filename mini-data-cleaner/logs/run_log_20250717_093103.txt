@@ -1,0 +1,2 @@
+2025-07-17 09:31:03,129 - INFO - Reading file: Desktop/Python  Linkdn Projects/mini-data-cleaner–/sample.csv
+2025-07-17 09:31:03,133 - ERROR - Error occurred: [Errno 2] No such file or directory: 'Desktop/Python  Linkdn Projects/mini-data-cleaner–/sample.csv'

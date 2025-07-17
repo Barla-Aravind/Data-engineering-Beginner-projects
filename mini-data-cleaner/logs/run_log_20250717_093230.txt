@@ -1,0 +1,4 @@
+2025-07-17 09:32:30,597 - INFO - Reading file: /Users/aravind.barla/Desktop/Python  Linkdn Projects/mini-data-cleaner/sample.csv
+2025-07-17 09:32:30,607 - INFO - Cleaning data...
+2025-07-17 09:32:30,614 - INFO - Saved cleaned data to: cleaned_data/cleaned_sample.csv
+2025-07-17 09:32:30,615 - INFO - Cleaning complete.
