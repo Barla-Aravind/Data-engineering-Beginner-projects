@@ -1,0 +1,11 @@
+movie_id,title,year,genre,rating,num_votes
+1,The Shawshank Redemption,1994,Drama,9.3,2343110
+2,The Godfather,1972,Crime,9.2,1620367
+3,The Dark Knight,2008,Action,9.0,2474650
+4,12 Angry Men,1957,Drama,9.0,703123
+5,Schindler's List,1993,Biography,8.9,1243670
+6,The Lord of the Rings: The Return of the King,2003,Adventure,8.9,1703456
+7,Pulp Fiction,1994,Crime,8.9,1867201
+8,Forrest Gump,1994,Drama,8.8,1945523
+9,Inception,2010,Action,8.8,2215000
+10,Fight Club,1999,Drama,8.8,1772000
